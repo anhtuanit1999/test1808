@@ -1,0 +1,29 @@
+{
+  "name": "test1808",
+  "version": "1.0.0",
+  "description": "học buổi 19 Khoa Phạm https://www.youtube.com/watch?v=-Y_0h46BiIg&list=PLskv-UQHb1ihcsWVMHIvjjBWnoGkhNc_1&index=18",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngocdungbb1/test1808.git"
+  },
+  "keywords": [],
+  "author": "anhtuanit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngocdungbb1/test1808/issues"
+  },
+  "homepage": "https://github.com/ngocdungbb1/test1808#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.1"
+  },
+  "devDependencies": {
+    "mocha": "^7.0.1"
+  }
+}
